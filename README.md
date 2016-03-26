@@ -6,7 +6,7 @@ Minecraft plugin to assist servers using Crackshot with a faster method of desig
  - drop the jar into your server plugins foler
  - restart your server
 
-### Commands
+### Configuration
  - Nothing to configure
 
 ### Commands [] - denotes optional -- <> - denotes mandatory
