@@ -1,0 +1,10 @@
+name: CrackshotSoundDesigner
+main: me.stoi2m1.CrackshotSoundDesigner
+version: 1.0
+commands:
+   shotsound:
+      description: Allows you to play sound for quick design!
+      usage: /<command> [all] <sound1>,<sound2>
+   shotsounds:
+      description: Provides a list of sounds in current version of bukkit
+      usage: /<command>
